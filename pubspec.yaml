@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get:
-  get_storage:
+  get: ^4.3.8
+  get_storage: ^2.0.3
 
 dev_dependencies:
   flutter_test:
