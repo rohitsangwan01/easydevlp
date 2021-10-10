@@ -1,3 +1,3 @@
-## 0.0.1
+## [0.0.1] - 2021-10-10
 
-* TODO: Describe initial release.
+- Initial release for reusing few common Flutter devlopment methods.

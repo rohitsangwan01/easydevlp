@@ -1,7 +1,7 @@
 name: easydevlp
 description: A Flutter Package to Make Flutter Devlopment more Easy.
 version: 0.0.1
-homepage:
+homepage: https://github.com/rohitsangwan01/easydevlp.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
